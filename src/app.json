@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/changeID/main",
+    "pages/success/main",
+    "pages/note/main",
+    "pages/orderDeatil/main",
+    "pages/information/main",
+    "pages/guide/main",
+    "pages/chooseTime/main",
+    "pages/chooseMuseum/main",
+    "pages/certification/main",
+    "pages/order/main",
+    "pages/my/main",
+    "pages/logs/main",
+    "pages/subscribe/main",
+         "pages/RegisterNow/main"
+
+  ],
+  "usingComponents": {
+    "van-button": "/static/vant/button/index",
+    "van-cell": "/static/vant/cell/index",
+    "van-cell-group": "/static/vant/cell-group/index",
+    "van-tab": "/static/vant/tab/index",
+    "van-tabs": "/static/vant/tabs/index",
+    "van-checkbox": "/static/vant/checkbox/index",
+    "van-checkbox-group": "/static/vant/checkbox-group/index",
+    "van-popup": "/static/vant/popup/index",
+    "van-picker": "/static/vant/picker/index",
+    "van-toast": "/static/vant/toast/index",
+    "van-notify": "/static/vant/notify/index",
+    "van-switch": "/static/vant/switch/index",
+    "van-dialog": "/static/vant/dialog/index",
+    "van-loading": "/static/vant/loading/index",
+    "van-overlay": "/static/vant/overlay/index",
+    "van-radio": "/static/weapp/dist/radio/index",
+    "van-radio-group": "/static/weapp/dist/radio-group/index"
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "white",
+    "backgroundColor":"#f7f7f7"
+  }
+}
